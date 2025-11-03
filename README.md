@@ -1,6 +1,6 @@
-# Python1
+# CO₂ Emissions and Global Temperature Analysis
+ 
 2nd Project
-CO₂ Emissions and Global Temperature Analysis
 
 This project explores the relationship between global CO₂ emissions and temperature anomalies over time using Python data analysis and visualization tools.
 
