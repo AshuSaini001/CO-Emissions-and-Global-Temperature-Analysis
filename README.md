@@ -49,3 +49,7 @@ Include regional or sectoral CO₂ contribution analysis
 Add correlation coefficients and regression analysis
 
 Integrate real-time datasets via APIs
+
+Here is the link for the deployed website:
+
+https://co2-emissions-and-global-temperature-analysis-cysarg6r9qfwangd.streamlit.app/
